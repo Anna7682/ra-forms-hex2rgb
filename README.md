@@ -1,6 +1,6 @@
 Конвертер цветов из HEX в RGB
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pp5k6a36bqiul6ci?svg=true)](https://ci.appveyor.com/project/vapanov/ra-forms-hex2rgb)
+[![Build status](https://ci.appveyor.com/api/projects/status/bb91emxa18bt7f2w?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-forms-hex2rgb)
 
 WEB VERSION https://anna7682.github.io/ra-forms-hex2rgb/
 
